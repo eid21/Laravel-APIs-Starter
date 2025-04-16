@@ -15,8 +15,8 @@ Before you begin, make sure you have the following installed:
 
 1. **Clone the repository:**
 ```bash
-git clone [your-repo-link]
-cd [project-directory]
+git clone https://github.com/eid21/Laravel-APIs-Starter.git
+cd Laravel-APIs-Starter
 ```
 
 2. **Install PHP dependencies:**
